@@ -48,3 +48,12 @@ Throughout the project, I followed a structured development process:
 *Conclusion:*
 
 The E-Learning Platform UI project demonstrates my proficiency in front-end development using HTML, CSS, and JavaScript. By leveraging VS Code as my editing tool, I efficiently designed and built a responsive, interactive, and user-friendly interface for an online learning platform.
+
+output:
+![Image](https://github.com/user-attachments/assets/48652c7a-b8e6-492b-8c1b-ac50b001efe5)
+![Image](https://github.com/user-attachments/assets/c1df24f3-2b00-495e-a396-3edcbaf22db9)
+![Image](https://github.com/user-attachments/assets/c15a8049-dd67-45f7-8f4b-1162d4be8634)
+![Image](https://github.com/user-attachments/assets/d5b7d3ed-2d46-441d-a866-2ef7c457eeec)
+![Image](https://github.com/user-attachments/assets/6a5c079c-de03-489f-b7b7-91fbe1d75f66)
+
+
